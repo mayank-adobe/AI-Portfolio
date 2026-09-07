@@ -26,3 +26,26 @@ Understand how modern AI applications work and build the foundation required for
 
 AI Project Description Generator
 ``
+
+
+
+## Week 1 Completed
+
+Topics Covered:
+- AI Fundamentals
+- Machine Learning
+- Deep Learning
+- Generative AI
+- LLMs
+- Training vs Inference
+- Tokens & Context Windows
+- Hallucinations & Grounding
+- RAG
+- Fine-Tuning
+- Agents
+
+Key Learning:
+RAG provides knowledge,
+Fine-Tuning changes behaviour,
+Agents perform actions.
+
