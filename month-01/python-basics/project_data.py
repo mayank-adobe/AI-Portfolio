@@ -23,8 +23,6 @@ print(f"Priority     : {project['priority']}")
 print(f"Owner        : {project['owner']}")
 print(f"Active       : {project['active']}")
 
-print("\nTasks")
-
 if project["priority"] == "High":
     print("Status : Urgent Project")
 
@@ -34,8 +32,11 @@ elif project["priority"] == "Medium":
 else:
     print("Status : Normal Project")
 
+
+print("\nTasks")
 for task in project["tasks"]:
     print(f"- {task}")
+
 
 print("\nRisks")
 
